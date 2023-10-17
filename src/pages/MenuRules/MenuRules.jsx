@@ -8,7 +8,7 @@ const MenuRules = () => {
         <ul>
           <li>
             a) you may delete
-            <span className="bold">all the sticks you want</span> in each move,
+            <span className="bold"> all the sticks you want</span> in each move,
             and it must be <span className="bold">at least one</span>.
           </li>
           <li>
