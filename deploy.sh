@@ -22,9 +22,10 @@ git commit -m 'deploy'
 
 # If you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git main
+git push -f git@github.com:patobottos/patobottos.github.io.git main
 
 # If you are deploying to https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:<USERNAME>/<REPO>.git main:gh-pages
-git push -f git@github.com:patobottos/playnimgame.git main:gh-pages
+# git push -f git@github.com:patobottos/playnimgame.git main:gh-pages
 
 cd -
